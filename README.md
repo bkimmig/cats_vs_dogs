@@ -1,6 +1,8 @@
-# Cats Vs. Dogs
+# Cats Vs. Dogs (and TensorFlow!)
 
 This is a project to classify cats and dogs in images. The data was taken from a <a href='https://www.kaggle.com/'> Kaggle </a> data set with images of <a href='https://www.kaggle.com/c/dogs-vs-cats'> cats and dogs </a>. 
+
+Can make new submissions <a href='https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition'> here </a>
 
 ## Motivation
 
